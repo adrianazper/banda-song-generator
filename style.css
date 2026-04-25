@@ -1,0 +1,42 @@
+header {
+  font-family: "Times New Roman", Times, serif;
+  text-align: center;
+  margin-top: 50px;
+  color: white;
+}
+
+main {
+  font-family: "Times New Roman", Times, serif;
+  text-align: center;
+  margin-top: -30px;
+  color:white;;
+}
+button { 
+  padding: 15px;
+  font-family: "Times New Roman", Times, serif;
+  color: black;
+  width: 200px;
+  font-size: 18px;
+}   
+
+body {
+  background-image: url("images/background.jpg");
+  background-size: cover;
+  background-repeat: repeat;
+  background-position: center;
+}
+
+#result {
+  font-size: 30px;
+}
+
+#azlogo {
+  width: 250px;
+  height: 250px;
+  margin-top: -25px;
+  text-align: center;
+}
+
+#clickbutton {
+  font-size: 20px;
+}
