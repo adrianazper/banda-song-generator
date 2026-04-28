@@ -7,9 +7,9 @@ const cumbias = ["Popurri Las Feas (DO y Sib)", "Cauhates Pistaches (RE)", "Prov
 ];
 
 const rancheras = ["Mi Ranchito (FA)", "Cuanto Me Gusta Este Ranche (FA)", "Por Ese Calle Vive (FA)", "El Tarasco (Sib)",
-  "Carta Esther (FA)", "Amor A La Ligera ()", "Suspiros (FA)", "Cielo (DO)", "Popurri 30 Cartas (Sol y FA)", "Sin Fortuna ()",
+  "Carta Esther (FA)", "Amor A La Ligera ()", "Suspiros (FA)", "Cielo (DO)", "Popurri 30 Cartas (SOL y FA)", "Sin Fortuna ()",
   "Por Una Mujer Casada ()", "Popurri El Rey ()", "Acábame de Matar ()", "Cuatro Meses ()", "El Chubasco (FA)", "Reproches Al Viento ()",
-  "Mi Lindo Nayarit ()", "Caminos De Michoacan ()", "Arboles de la Barranca ()", "Un Puño de Tierra ()", "Por Las Calles De Chihuahua ()",
+  "Mi Lindo Nayarit ()", "Caminos De Michoacan (FA)", "Arboles de la Barranca ()", "Un Puño de Tierra (DO)", "Por Las Calles De Chihuahua ()",
   "La Novia Del Pajarillo ()", 
 
 ]
