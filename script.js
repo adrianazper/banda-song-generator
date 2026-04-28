@@ -2,7 +2,7 @@
 const cumbias = ["Popurri Las Feas (DO y Sib)", "Cauhates Pistaches (RE)", "Provocame (RE)", "Tamarindo (FA)", "La Nena ()",
   "Popurri Pa Ya Y Paca ()", "Popurri La Yaquesita ()", "Canchame ()", "La Morena ()", "Que Te Pasa ()", "Cinco De Te ()",
   "La Chica Fresa ()", "Palinos Chinos ()", "Por Ella ()", "Hola Corazon ()", "Si Tu Boquita Fuera ()", "Al Ritmo de la Banda ()",
-  "Bailando Y Quebrando ()",
+  "Bailando Y Quebrando ()", "La Peñada ()"
     
 ];
 
