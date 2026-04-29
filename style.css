@@ -12,7 +12,7 @@ main {
   color:white;;
 }
 button { 
-  padding: 15px;
+  padding: 10px;
   font-family: "Times New Roman", Times, serif;
   color: black;
   width: 200px;
@@ -39,4 +39,10 @@ body {
 
 #clickbutton {
   font-size: 20px;
+}
+
+#myFilter {
+  width: 100px;
+  text-align: center;
+  padding: 5px;
 }
