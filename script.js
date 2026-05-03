@@ -74,11 +74,11 @@ Musica`
     lyrics:''
   },
 
-  {title: "Popurri: Pa Ya y Paca () y El Esquimal ()",
+  {title: "Popurri: Pa Ya y Paca (Sib) y El Esquimal (RE)",
     lyrics: ''
   }, 
 
-  {title: "Popurri: La Yaquesita () y Tiburon ()",
+  {title: "Popurri: La Yaquesita (FA) y Tiburon (SOL)",
     lyrics: `Tiburon 
     'Tiburón, tiburón' a tu celular
 
@@ -111,7 +111,7 @@ Tiburón, tiburón tiburón, tiburón tiburón a la vista bañista`
     lyrics: ''
   }, 
 
-  {title: "La Morena ()",
+  {title: "La Morena (RE)",
     lyrics: ''
   }, 
 
@@ -127,7 +127,7 @@ Tiburón, tiburón tiburón, tiburón tiburón a la vista bañista`
     lyrics: ''
   },  
 
-  {title: "Palinos Chinos ()",
+  {title: "Palinos Chinos (FA)",
     lyrics: ''
   }, 
 
@@ -135,27 +135,27 @@ Tiburón, tiburón tiburón, tiburón tiburón a la vista bañista`
     lyrics: ''
   }, 
 
-  {title: "Hola Corazon ()",
+  {title: "Hola Corazon (DO)",
     lyrics: ''
   }, 
 
-  {title: "Si Tu Boquita Fuera ()",
+  {title: "Si Tu Boquita Fuera (SOL)",
     lyrics: ``
   }, 
 
-  {title: "Al Ritmo de la Banda ()",
+  {title: "Al Ritmo de la Banda (SOL)",
     lyrics: ''
   },
 
-  {title: "Bailando Y Quebrando ()",
+  {title: "Bailando Y Quebrando (DO)",
     lyrics: ''
   }, 
 
-  {title: "La Peñada ()",
+  {title: "La Peñada (SOL)",
     lyrics: ''
   }, 
 
-  {title: "Camaron Pelado ()",
+  {title: "Camaron Pelado (FA)",
     lyrics: ''
   }
    
@@ -247,7 +247,7 @@ a ver a un amor que tengo`},
   {title: "Sin Fortuna ()",
     lyrics: ``},
 
-  {title: "Por Una Mujer Casada ()",
+  {title: "Por Una Mujer Casada (SOL)",
     lyrics: `Por una mujer casada me dicen que he de morir
 mentiras no me hacen nada
 si ella me quiere seguir
@@ -278,7 +278,7 @@ Por una mujer casada me dicen que he de morir
 mentiras no me hacen nada
 si ella me quiere seguir`}, 
 
-  {title: "Popurri: Cielito Lindo () y El Rey () y Tragos De Amargo Licor ()",
+  {title: "Popurri: Cielito Lindo (SOL) y El Rey (RE) y Tragos De Amargo Licor (FA)",
     lyrics: `Tragos - 
     Clavado en este rincón 
 como tu clavaste a mi corazon estos tragos que tomo yo 
@@ -355,14 +355,14 @@ Que me acabes de matar
 Por eso mejor te pido 
 Que me acabes de matar`}, 
 
-  {title: "Cuatro Meses ()",
+  {title: "Cuatro Meses (DO)",
     lyrics: ''}, 
 
   {title: "El Chubasco (FA)",
     lyrics: ''}, 
 
-  {title: "Reproches Al Viento ()",
-    lyrics: `Dime Dios mío porque reniego Porque conforme no puedo estar Si me molesta mirar pa´ arriba Por qué me diste un bajo lugar
+  {title: "Reproches Al Viento (RE)",
+    lyrics: `Dime Dios mío porque reniego Porque conforme no puedo estar Si me molesta mirar pa'arriba Por qué me diste un bajo lugar
 
 Por ser de abajo me despreciaron Y pisotearon mi dignidad Más vale un año de vacas gordas Que cien de perro en cualquier lugar
 
@@ -378,7 +378,7 @@ El amor y el dinero No se logran nunca sin riesgo Y jugare perdido Y yo quiero a
 
 Y lo voy a lograr O en la batalla me muero Dios mío dame tu mano Si me quieres ver regresar`},
 
-  {title: "Mi Lindo Nayarit ()",
+  {title: "Mi Lindo Nayarit (FA)",
     lyrics: `Que linda es mi tierra Nayarit, Que linda es Tepic su capital, Que lindo es el puerto de San Blas, 
 Acogedor, para vivir y amar.
 
@@ -456,7 +456,7 @@ porque me lo estan negando
 díganle que ando en Sauayo
 y voy pa' Ciudad Hidalgo.`}, 
 
-  {title: "Arboles de la Barranca ()",
+  {title: "Arboles de la Barranca (DO)",
     lyrics: `Arboles de la barranca por que no han enverdecido 
 es que no los ha regado con agua del rio florido.
 
@@ -572,10 +572,10 @@ Le han entrado a la movida
 Otros por hacer dinero 
 Han perdido hasta la vida`}, 
   
-  {title: "Dos Amigos ()",
+  {title: "Dos Amigos (Sib)",
     lyrics: ''}, 
   
-  {title: "Corrido de Nayarit ()", 
+  {title: "Corrido de Nayarit (DO)", 
     lyrics: `yo tengo el orgullo de ser nayarita esta tierra santa tierra del senor 
 sus hombres son machos y no se les quita 
 sus hembras rechulas son todo un primor
@@ -640,7 +640,7 @@ con las leyes o con el parton.`},
   {title: "Andamos Mejor ()",
     lyrics: ''}, 
   
-  {title: "Corrido de Juan Martha ()",
+  {title: "Corrido de Juan Martha (DO)",
     lyrics: `Decian que cargaba el diablo mentiras no traia nada 
 lo que traiba en su cintura 
 era una pistola escuadra
@@ -679,7 +679,7 @@ ya con esta me despido pero les dejo una carta
 para que sigan cantando 
 el corrido de juan martha `},
 
-  {title: "El Muchacho Alegre ()",
+  {title: "El Muchacho Alegre (FA)",
     lyrics: `Yo soy el muchacho alegre
 que me amanezco tomando
 con mi botella de vino
@@ -713,11 +713,16 @@ Ya con esta me despido
 a orillas de un campo verde
 aquí se acaban cantando
 versos del muchacho alegre.`},
+
+{
+  title: "Linda Güerita (FA)",
+  lyrics: ``
+}
 ]
 
 const zapateados = [
   
-  {title: "La Vaquilla ()",
+  {title: "La Vaquilla (Sib/FA)",
     lyrics: `Le diras a la vaquilla 
 Que se baje para el plan 
 Que ya se le muere de hambre 
@@ -780,7 +785,7 @@ Que se venga por la orilla
 Que en la puerta del corral 
 Tenga lista la vaquilla`}, 
   
-  {title: "El Sinaloense ()",
+  {title: "El Sinaloense (SOL)",
     lyrics: `Desde Navolato vengo dicen que naci en el Roble 
 me dicen que soy arriero por que le chiflo y se para 
 si les aviento el sombrero ya veran como repara
@@ -818,10 +823,10 @@ Ay, ay, ay ay, ay, ay. `},
   {title: "Ilusion 89 ()",
     lyrics: ''}, 
   
-  {title: "Toro de Once ()",
+  {title: "Toro de Once (FA)",
     lyrics: ''}, 
   
-  {title: "Toro Viejo ()",
+  {title: "Toro Viejo (FA)",
     lyrics: `Por ay viene el caporal cayéndose de borracho 
 por ay viene el caporal cayéndose de borracho 
 gritandole a los vaqueros échenme ese toro gacho 
@@ -902,7 +907,7 @@ mi pensamiento va y viene
 mi pecho con gusto se haya 
 yo habito en un jacalito por fuera de la muralla...`}, 
   
-  {title: "Arriba Pichataro ()",
+  {title: "Arriba Pichataro (FA)",
     lyrics: ''},
 
   {title: "La Varquita ()",
@@ -995,6 +1000,11 @@ Y gastarnos mil noches en caricias y besos no importa que me dejes en los purito
 
   {title: "Regalo de Dios ()",
     lyrics: ''},
+  
+    {
+      title: "Mi Razon de Ser (SOL)",
+      lyrics: ``
+    },
 
 ]
 
